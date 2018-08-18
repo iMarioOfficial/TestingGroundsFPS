@@ -14,7 +14,7 @@ class TESTINGGROUNDSFPS_API APatrollingGuard : public ATP_ThirdPersonCharacter
 {
 	GENERATED_BODY()
 
-
+public: //TODO remove or create Getter method
 		UPROPERTY(EditInstanceOnly, Category = "PatrolRoute")
 		TArray<AActor*> PatrolPointsCPP;
 };
