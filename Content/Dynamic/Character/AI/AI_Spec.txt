@@ -1,0 +1,6 @@
+If you see the enemy, move within 300m of the enemy, shoot at enemy
+
+If you see enemy but not within 300m, move within 300m while shooting at enemy
+
+If enemy is not seen but havent visited last known location, go there
+If last known location, go to the next patrol point.
